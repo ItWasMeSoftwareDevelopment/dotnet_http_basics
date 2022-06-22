@@ -22,7 +22,7 @@
     <None Remove="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\string_utils\src\Common.StringUtils\Common.StringUtils\Common.StringUtils.csproj" />
